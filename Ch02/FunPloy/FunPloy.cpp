@@ -27,4 +27,9 @@ int main()
     std::cout << Add(3, 4) << std::endl;
     std::cout << Add(3, 4, 5) << std::endl;
     std::cout << Add(3.3, 4.4) << std::endl;
+
+    return 0;
 }
+
+// Name Mangling - 실제 저장되는 함수 이름이 따로 생성된다. 즉, 실제로는 중복되는 함수 이름을 갖지 않는다.
+// exturn "C"를 사용하면 Name Mangling 기능을 사용하지 않을 수 있다.
