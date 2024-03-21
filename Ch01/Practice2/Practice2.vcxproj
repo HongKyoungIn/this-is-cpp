@@ -141,7 +141,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Project1.cpp" />
+    <ClCompile Include="Practice2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
